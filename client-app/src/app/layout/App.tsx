@@ -1,4 +1,5 @@
 import NavBar from "./NavBar";
+import "../layout/styles.css";
 import ActivityDashboard from "../../features/activities/dashboard/ActivityDashboard";
 import { observer } from "mobx-react-lite";
 import { Container } from "semantic-ui-react";
